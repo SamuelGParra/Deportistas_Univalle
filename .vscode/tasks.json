@@ -8,7 +8,7 @@
             "args": [
                 "-g",
                 "-I",
-                "${workspaceFolder}/include",
+                "${workspaceFolder}/Include",
                 "${workspaceFolder}/main.cpp",
                 "${workspaceFolder}/src/*.cpp",
                 "-o",

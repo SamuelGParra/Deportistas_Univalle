@@ -8,9 +8,10 @@
             "args": [
                 "-g",
                 "-I",
-                "${workspaceFolder}/include",
+                "${workspaceFolder}/Include",
                 "${workspaceFolder}/main.cpp",
-                "${workspaceFolder}/src/*.cpp",
+                "${workspaceFolder}/src/Deportista.cpp",
+                "${workspaceFolder}/src/Futbolista.cpp",
                 "-o",
                 "${workspaceFolder}/main"
             ],

@@ -27,7 +27,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++ compilar archivo activo",
-            "command": "/usr/bin/g++",
+            "command": "g++",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",

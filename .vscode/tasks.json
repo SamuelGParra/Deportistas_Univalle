@@ -12,6 +12,9 @@
                 "${workspaceFolder}/main.cpp",
                 "${workspaceFolder}/src/Deportista.cpp",
                 "${workspaceFolder}/src/Futbolista.cpp",
+                "${workspaceFolder}/src/Basketbolista.cpp",
+                "${workspaceFolder}/src/Nadador.cpp",
+                "${workspaceFolder}/src/Manejo_datos.cpp",
                 "-o",
                 "${workspaceFolder}/main"
             ],
